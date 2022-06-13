@@ -1,0 +1,20 @@
+.event-item-container {
+  width: 40%;
+}
+.event-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  width: 100%;
+}
+.event-img {
+  width: 100%;
+}
+.event-name {
+  font-weight: bold;
+  font-size: 18px;
+}
+.event-place {
+  font-size: 14px;
+}

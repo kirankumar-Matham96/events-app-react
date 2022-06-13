@@ -1,0 +1,10 @@
+.no-active-events-container {
+  width: 50%;
+  color: #64748b;
+}
+.registration-details-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

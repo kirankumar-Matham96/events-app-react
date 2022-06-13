@@ -1,0 +1,18 @@
+.event-bg-container {
+  display: flex;
+}
+.events-container {
+  width: 50%;
+  background-image: linear-gradient(to right, #475569, #3a4b63);
+  color: #f8fafc;
+}
+.main-heading {
+}
+.event-items-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+}
